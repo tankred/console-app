@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [0.4.0] - 2020-11-05
+### Added
+- GNU licence
+
 ## [0.3.0] - 2020-10-21
 ### Changed
 - dotnet publish --framework netcoreapp3.1

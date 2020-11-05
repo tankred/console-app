@@ -10,11 +10,10 @@ dotnet run --project .
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 ```
-Give examples
+dotnet --version 
 ```
+3.1.402
 
 ## Versioning
 
@@ -26,7 +25,7 @@ Tankred
 
 ## License
 
-Add link to license file for details
+[GNU GENERAL PUBLIC LICENSE](LICENSE.md)
 
 ## Acknowledgments
 
