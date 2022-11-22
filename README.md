@@ -5,6 +5,7 @@ Hello World dotnet console app
 ## Getting Started
 
 ```
+dotnet build
 dotnet run --project .
 ```
 

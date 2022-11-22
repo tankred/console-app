@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [0.5.0] - 2022-11-22
+### Changed
+- Target .netcore 7.0
+
 ## [0.4.0] - 2020-11-05
 ### Added
 - GNU licence
