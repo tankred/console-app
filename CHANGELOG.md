@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [0.7.0] - 2026-11-09
+### Changed
+- Drop remote master branch
+
 ## [0.6.0] - 2026-10-30
 ### Changed
 - Target .netcore 10.0
